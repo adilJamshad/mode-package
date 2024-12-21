@@ -1,0 +1,13 @@
+{
+  "name": "mod",
+  "version": "1.0.0",
+  "description": "This package provides the proformative approach to takin mod (%). As mod (%) itself is a very costly operation on the CPU ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "lint": "eslint .",
+    "prepare": "npm run eslint"
+  },
+  "author": "Adil Jamshad",
+  "license": "MIT"
+}
